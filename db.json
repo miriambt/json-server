@@ -1,0 +1,36 @@
+{
+  "Users": [
+    {
+      "id":1,
+      "email": "cris@gmail.com",
+      "pasword": "123",
+    
+    },
+    {
+      "id":2,
+      "email": "miriam@gmail.com",
+      "pasword": "abc",
+    },
+    {
+      "id":3,
+      "email": "maria@gmail.com",
+      "pasword": "456",
+    },
+    {
+      "id":4,
+      "email": "pau@gmail.com",
+      "pasword": "def",
+
+    },
+    {
+      "id":5,
+      "email": "jaume@gmail.com",
+      "pasword": "789",
+    },
+    {
+      "id":6,
+      "email": "joan@gmail.com",
+      "pasword": "ghi",
+    }
+  ]
+}
