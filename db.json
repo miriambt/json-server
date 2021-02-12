@@ -2,14 +2,14 @@
   "users" : [
     {
       "id" : 1,
-      "username": "anna";
+      "username": "anna",
       "email": "anna@gmail.com",
       "pasword": "123"
     
     },
     {
       "id" : 2,
-      "username": "maria";
+      "username": "maria",
       "email": "maria@gmail.com",
       "pasword": "123"
     },
@@ -27,7 +27,8 @@
 
     },
     {
-      "id" : 5,      
+      "id" : 5,
+      "username": "joan@gmail.com",
       "email": "joan@gmail.com",
       "pasword": "123"
     }
