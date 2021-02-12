@@ -2,40 +2,34 @@
   "users" : [
     {
       "id" : 1,
-      "email": "maria@gmail.com",
-      "pasword": "abcd"
+      "username": "anna";
+      "email": "anna@gmail.com",
+      "pasword": "123"
     
     },
     {
-      "id" : 2,      
-      "email": "marta@gmail.com",
-      "pasword": "abcd"
+      "id" : 2,
+      "username": "maria";
+      "email": "maria@gmail.com",
+      "pasword": "123"
     },
     {
       "id" : 3,      
-      "email": "laura@gmail.com",
-      "pasword": "abcd"
+      "username": "anna@gmail.com",
+      "email": "anna@gmail.com",
+      "pasword": "123"
     },
     {
-      "id" : 4,      
-      "email": "pau@gmail.com",
-      "pasword": "abcd"
+      "id" : 4,
+      "username": "eric@gmail.com",
+      "email": "eric@gmail.com",
+      "pasword": "123"
 
     },
     {
       "id" : 5,      
       "email": "joan@gmail.com",
-      "pasword": "abcd"
-    },
-    {
-      "id" : 6,      
-      "email": "alex@gmail.com",
-      "pasword": "abcd"
-    },
-    {
-      "id" : 7,      
-      "email": "alexia@gmail.com",
-      "pasword": "abcd"
+      "pasword": "123"
     }
   ]
 }
